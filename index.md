@@ -29,7 +29,9 @@ In early 2020 due to Covid-19, some of us were concerned about the potential imp
 
 # Work in progress
 
-[Chen and Frank, 2021, Debt Financing Investment in the Long Run](https://github.com/mzfrank/myweb/files/6823733/ChenFrank2021June02.pdf)
+[Debt Financing Investment in the Long Run, 2021 (with Hong Chen)](https://github.com/mzfrank/myweb/files/6823733/ChenFrank2021June02.pdf)
+
+Which Firms Have More Predictable Profits? A Method and Applications (with Keer Yang) available soon
 
 # Some recent discussions at conferences
 

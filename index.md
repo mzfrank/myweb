@@ -1,3 +1,6 @@
+# Contact
+Murray Z. Frank, murra280@umn.edu
+
 # Information and Links
 Work page: https://carlsonschool.umn.edu/faculty/murray-frank
 
@@ -28,8 +31,6 @@ The Pecking Order Theory of Capital Structure (with Vidhan Goyal and Tao Shen) 2
 [2020 Minnesota Corporate, discussion of Coven, Gupta and Yao, Urban Flight Seeded the Covid-19 Pandemic Across the US](https://github.com/mzfrank/myweb/files/6823952/Comments.on.Urban.Flight.paper.2020.Oct.pdf)
 
 [2021 WFA, discussion of Jung, Kadyrzhanova and Subramanian, Capital Structure under Imperfect Product Market Competition](https://github.com/mzfrank/myweb/files/6823894/Capital.Structure.under.Imperfect.Product.Market.CompetitionUpdated.pdf)
-
-
 
 # Teaching materials
 

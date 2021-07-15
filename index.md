@@ -1,6 +1,6 @@
-Murray Z. Frank, murra280@umn.edu
-
 [I work in the Finance Department, University of Minnesota](https://carlsonschool.umn.edu/faculty/murray-frank). I have also been a visiting professor at SAIF in Shanghai for a number of years: [Shanghai Advanced Institute of Finance](https://en.saif.sjtu.edu.cn/).
+
+E-mail: murra280@umn.edu
 
 [CV, Dec 2020](https://github.com/mzfrank/myweb/files/6824824/Vita2020Dec_Murray.Frank.pdf)
 

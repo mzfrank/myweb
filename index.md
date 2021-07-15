@@ -7,6 +7,15 @@ Google scholar page: https://scholar.google.com/citations?user=iizj77oAAAAJ&hl=e
 
 LinkedIn: https://www.linkedin.com/in/murray-frank-5b5666a5/
 
+# Recent papers 
+
+Financing Corporate Growth (with Ali Sanati) forthcoming, Review of Financial Studies, https://ssrn.com/abstract=3377665
+
+The Effect of Taxation on Corporate Financing and Investment (with Hong Chen) forthcoming, Review of Corporate Finance Studies, https://ssrn.com/abstract=2878057
+
+The Trade-off Theory of Corporate Capital Structure (with Hengjie Ai and Ali Sanati) 2021, Oxford Research Encyclopedia of Economics and Finance, https://ssrn.com/abstract=3595492
+
+The Pecking Order Theory of Capital Structure (with Vidhan Goyal and Tao Shen) 2020, Oxford Research Encyclopedia of Economics and Finance, https://ssrn.com/abstract=3540610
 
 # Papers currently under development
 

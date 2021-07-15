@@ -1,6 +1,9 @@
-Here is a link to my papers on SSRN: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=59982
+# Information and Links
+My papers on SSRN: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=59982
+My Google scholar page: https://scholar.google.com/citations?user=iizj77oAAAAJ&hl=en&oi=sra
+LinkedIn: https://www.linkedin.com/in/murray-frank-5b5666a5/
 
-
+####################################################################
 
 ## Welcome to GitHub Pages
 

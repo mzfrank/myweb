@@ -7,7 +7,7 @@ In early 2020 due to Covid-19, some of us were concerned about the potential imp
 https://sites.google.com/site/uscfom/weekly-virtual-seminar
 
 # Information and Links
-[My page at the Finance Department, University of Minnesota](https://carlsonschool.umn.edu/faculty/murray-frank)
+[I work in the Finance Department, University of Minnesota](https://carlsonschool.umn.edu/faculty/murray-frank). I have also been a visiting professor at SAIF in Shanghai for a number of years: [Shanghia Advanced Institute of Finance](https://en.saif.sjtu.edu.cn/)
 
 [My papers on SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=59982)
 

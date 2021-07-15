@@ -21,7 +21,8 @@ I was the President of the MFA in 2017-2018 and I still have a soft spot for the
 
 # Recent papers 
 
-[Financing Corporate Growth](https://ssrn.com/abstract=3377665) (with [Ali Sanati](https://www.alisanati.com/)) forthcoming, **Review of Financial Studies** 
+[Financing Corporate Growth](https://ssrn.com/abstract=3377665) (with [Ali Sanati](https://www.alisanati.com/)) forthcoming, **Review of Financial Studies**, 
+[Presentation slides](https://github.com/mzfrank/myweb/files/6826544/FrankSanati_2020Virtual.pdf)
 
 [The Effect of Taxation on Corporate Financing and Investment](https://ssrn.com/abstract=2878057) (with [Hong Chen](http://en.saif.sjtu.edu.cn/faculty-research/chen-hong)) forthcoming, **Review of Corporate Finance Studies** 
 

@@ -1,3 +1,7 @@
+Here is a link to my papers on SSRN: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=59982
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mzfrank/myweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

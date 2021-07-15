@@ -17,6 +17,10 @@ Murray Z. Frank, murra280@umn.edu
 In early 2020 due to Covid-19, some of us were concerned about the potential impact on academic seminars and conferences in corporate finance. As a result Gordon Phillips (Dartmouth), Max Maksimovic (Maryland) and I created a virtual weekly seminar series for corporate finance. It started May 2020. More than 40 papers have been presented so far. We currently have seminars scheduled through May 18, 2022. To see a list of both the past and the future seminars (many with links to papers): 
 [https://sites.google.com/site/uscfom/weekly-virtual-seminar](https://sites.google.com/site/uscfom/weekly-virtual-seminar)
 
+# Midwest Finance Association
+
+I was the President of the MFA in 2017-2018 and I still have a softspot for the organization, see [https://midwestfinance.org/](https://midwestfinance.org/). 
+
 # Recent papers 
 
 [Financing Corporate Growth](https://ssrn.com/abstract=3377665) (with Ali Sanati) forthcoming, Review of Financial Studies 

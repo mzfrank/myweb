@@ -39,7 +39,7 @@ The Pecking Order Theory of Capital Structure (with Vidhan Goyal and Tao Shen) 2
 
 # Teaching materials
 
-In recent years I teach a PhD course, an MBA course, and a couple of MSF courses. Here are the most recent versions of the syllabi.
+In recent years I taught a PhD course, an MBA course, and a couple of MSF courses. Here are the most recent versions of the syllabi.
 
 [Empirical Corporate Finance PhD Syllabus 2020.pdf](https://github.com/mzfrank/myweb/files/6823541/8823_Syllabus2020.pdf)
 

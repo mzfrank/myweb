@@ -1,9 +1,22 @@
 # Information and Links
+My work page:https://carlsonschool.umn.edu/faculty/murray-frank
+
 My papers on SSRN: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=59982
 
 My Google scholar page: https://scholar.google.com/citations?user=iizj77oAAAAJ&hl=en&oi=sra
 
 LinkedIn: https://www.linkedin.com/in/murray-frank-5b5666a5/
+
+# Teaching materials
+
+[Empirical Corporate Finance PhD Syllabus 2020.pdf](https://github.com/mzfrank/myweb/files/6823541/8823_Syllabus2020.pdf)
+
+[World Economy Syllabus MBA 2021.pdf](https://github.com/mzfrank/myweb/files/6823531/World.Economy.Syllabus.2021.pdf)
+
+[Finance in the Macroeconomy Syllabus MSF 2021.pdf](https://github.com/mzfrank/myweb/files/6823561/6621_MSF_2021_Syllabus.pdf)
+
+[Machine Learning for Finance Syllabus MSF 2021.pdf](https://github.com/mzfrank/myweb/files/6823590/ML_for_Finance_syllabus_2021.pdf)
+
 
 ####################################################################
 

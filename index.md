@@ -17,7 +17,7 @@ The Trade-off Theory of Corporate Capital Structure (with Hengjie Ai and Ali San
 
 The Pecking Order Theory of Capital Structure (with Vidhan Goyal and Tao Shen) 2020, Oxford Research Encyclopedia of Economics and Finance, https://ssrn.com/abstract=3540610
 
-# Papers currently under development
+# Papers currently in progress
 
 [Chen and Frank, 2021, Debt Financing Investment in the Long Run](https://github.com/mzfrank/myweb/files/6823733/ChenFrank2021June02.pdf)
 

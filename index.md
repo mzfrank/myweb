@@ -2,7 +2,7 @@
 
 E-mail: murra280@umn.edu
 
-[CV, Dec 2020](https://github.com/mzfrank/myweb/files/6824824/Vita2020Dec_Murray.Frank.pdf)
+[CV](https://github.com/mzfrank/myweb/files/6824824/Vita2020Dec_Murray.Frank.pdf)
 
 [My papers on SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=59982)
 

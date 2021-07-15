@@ -1,10 +1,8 @@
-# Contact
 Murray Z. Frank, murra280@umn.edu
 
-# Information and Links
 [I work in the Finance Department, University of Minnesota](https://carlsonschool.umn.edu/faculty/murray-frank). I have also been a visiting professor at SAIF in Shanghai for a number of years: [Shanghai Advanced Institute of Finance](https://en.saif.sjtu.edu.cn/).
 
-[Here is my CV](https://github.com/mzfrank/myweb/files/6824824/Vita2020Dec_Murray.Frank.pdf)
+[CV, Dec 2020](https://github.com/mzfrank/myweb/files/6824824/Vita2020Dec_Murray.Frank.pdf)
 
 [My papers on SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=59982)
 
@@ -23,13 +21,13 @@ I was the President of the MFA in 2017-2018 and I still have a softspot for the 
 
 # Recent papers 
 
-[Financing Corporate Growth](https://ssrn.com/abstract=3377665) (with Ali Sanati) forthcoming, Review of Financial Studies 
+[Financing Corporate Growth](https://ssrn.com/abstract=3377665) (with Ali Sanati) forthcoming, **Review of Financial Studies** 
 
-[The Effect of Taxation on Corporate Financing and Investment](https://ssrn.com/abstract=2878057) (with Hong Chen) forthcoming, Review of Corporate Finance Studies 
+[The Effect of Taxation on Corporate Financing and Investment](https://ssrn.com/abstract=2878057) (with Hong Chen) forthcoming, **Review of Corporate Finance Studies** 
 
-[The Trade-off Theory of Corporate Capital Structure](https://ssrn.com/abstract=3595492) (with Hengjie Ai and Ali Sanati) 2021, Oxford Research Encyclopedia of Economics and Finance 
+[The Trade-off Theory of Corporate Capital Structure](https://ssrn.com/abstract=3595492) (with Hengjie Ai and Ali Sanati) 2021, **Oxford Research Encyclopedia of Economics and Finance** 
 
-[The Pecking Order Theory of Capital Structure](https://ssrn.com/abstract=3540610) (with Vidhan Goyal and Tao Shen) 2020, Oxford Research Encyclopedia of Economics and Finance 
+[The Pecking Order Theory of Capital Structure](https://ssrn.com/abstract=3540610) (with Vidhan Goyal and Tao Shen) 2020, **Oxford Research Encyclopedia of Economics and Finance** 
 
 # Work in progress
 
@@ -37,7 +35,7 @@ I was the President of the MFA in 2017-2018 and I still have a softspot for the 
 
 Which Firms Have More Predictable Profits? A Method and Applications (with Keer Yang) available soon
 
-# Some recent discussions at conferences
+# Discussions at conferences
 
 [2020 NFA, discussion of Halling, Yu and Zechner, The Dynamics of Corporate Debt Structure](https://github.com/mzfrank/myweb/files/6823969/MFrank_NFA_Discussion_2020Updated.pdf)
 

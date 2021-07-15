@@ -17,17 +17,17 @@ In early 2020 due to Covid-19, some of us were concerned about the potential imp
 
 # Midwest Finance Association
 
-I was the President of the MFA in 2017-2018 and I still have a softspot for the organization, see [https://midwestfinance.org/](https://midwestfinance.org/). 
+I was the President of the MFA in 2017-2018 and I still have a soft spot for the organization, see [https://midwestfinance.org/](https://midwestfinance.org/). 
 
 # Recent papers 
 
-[Financing Corporate Growth](https://ssrn.com/abstract=3377665) (with Ali Sanati) forthcoming, **Review of Financial Studies** 
+[Financing Corporate Growth](https://ssrn.com/abstract=3377665) (with [Ali Sanati](https://www.alisanati.com/)) forthcoming, **Review of Financial Studies** 
 
-[The Effect of Taxation on Corporate Financing and Investment](https://ssrn.com/abstract=2878057) (with Hong Chen) forthcoming, **Review of Corporate Finance Studies** 
+[The Effect of Taxation on Corporate Financing and Investment](https://ssrn.com/abstract=2878057) (with [Hong Chen](http://en.saif.sjtu.edu.cn/faculty-research/chen-hong)) forthcoming, **Review of Corporate Finance Studies** 
 
-[The Trade-off Theory of Corporate Capital Structure](https://ssrn.com/abstract=3595492) (with Hengjie Ai and Ali Sanati) 2021, **Oxford Research Encyclopedia of Economics and Finance** 
+[The Trade-off Theory of Corporate Capital Structure](https://ssrn.com/abstract=3595492) (with [Hengjie Ai](https://www.hengjieai.com/) and [Ali Sanati](https://www.alisanati.com/)) 2021, **Oxford Research Encyclopedia of Economics and Finance** 
 
-[The Pecking Order Theory of Capital Structure](https://ssrn.com/abstract=3540610) (with Vidhan Goyal and Tao Shen) 2020, **Oxford Research Encyclopedia of Economics and Finance** 
+[The Pecking Order Theory of Capital Structure](https://ssrn.com/abstract=3540610) (with [Vidhan Goyal](https://www.vidhangoyal.com/) and [Tao Shen](http://www.sem.tsinghua.edu.cn/en/shentao)) 2020, **Oxford Research Encyclopedia of Economics and Finance** 
 
 # Work in progress
 

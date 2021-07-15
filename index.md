@@ -1,6 +1,11 @@
 # Contact
 Murray Z. Frank, murra280@umn.edu
 
+# Virtual Corporate Finance Seminars
+
+In early 2020 due to Covid-19, some of us were concerned about the potential impact on academic seminars and conferences in corporate finance. As a result Gordon Phillips (Dartmouth), Max Maksimovic (Maryland) and I created a virtual weekly seminar series for corporate finance. It started May 2020. More than 40 papers have been presented so far. We are currently scheduled through May 18, 2022. To see a list of both the forthcoming and the past seminars (mostly with links to papers): 
+https://sites.google.com/site/uscfom/weekly-virtual-seminar
+
 # Information and Links
 Work page: https://carlsonschool.umn.edu/faculty/murray-frank
 

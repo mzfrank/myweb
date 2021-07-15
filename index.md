@@ -1,9 +1,9 @@
 # Information and Links
-My work page: https://carlsonschool.umn.edu/faculty/murray-frank
+Work page: https://carlsonschool.umn.edu/faculty/murray-frank
 
-My papers on SSRN: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=59982
+Papers on SSRN: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=59982
 
-My Google scholar page: https://scholar.google.com/citations?user=iizj77oAAAAJ&hl=en&oi=sra
+Google scholar page: https://scholar.google.com/citations?user=iizj77oAAAAJ&hl=en&oi=sra
 
 LinkedIn: https://www.linkedin.com/in/murray-frank-5b5666a5/
 

@@ -57,7 +57,3 @@ In recent years I taught a PhD course, an MBA course, and a couple of MSF course
 
 [Empirical Corporate Finance, PhD 2020](https://github.com/mzfrank/myweb/files/6823541/8823_Syllabus2020.pdf)
 
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

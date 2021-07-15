@@ -31,29 +31,31 @@ I was the President of the MFA in 2017-2018 and I still have a soft spot for the
 
 # Work in progress
 
-[Debt Financing Investment in the Long Run, 2021 (with Hong Chen)](https://github.com/mzfrank/myweb/files/6823733/ChenFrank2021June02.pdf)
+[Debt Financing Investment in the Long Run, 2021 (with Hong Chen)](https://github.com/mzfrank/myweb/files/6823733/ChenFrank2021June02.pdf),
+[Presentation slides](https://github.com/mzfrank/myweb/files/6825712/Talk_ChenFrank_2021Mar05.pdf)
 
 Which Firms Have More Predictable Profits? A Method and Applications (with Keer Yang) available soon
 
 # Discussions at conferences
 
-[2020 NFA, discussion of Halling, Yu and Zechner, The Dynamics of Corporate Debt Structure](https://github.com/mzfrank/myweb/files/6823969/MFrank_NFA_Discussion_2020Updated.pdf)
-
-[2020 Minnesota Corporate, discussion of Coven, Gupta and Yao, Urban Flight Seeded the Covid-19 Pandemic Across the US](https://github.com/mzfrank/myweb/files/6823952/Comments.on.Urban.Flight.paper.2020.Oct.pdf)
-
 [2021 WFA, discussion of Jung, Kadyrzhanova and Subramanian, Capital Structure under Imperfect Product Market Competition](https://github.com/mzfrank/myweb/files/6823894/Capital.Structure.under.Imperfect.Product.Market.CompetitionUpdated.pdf)
+
+[2020 Minnesota Corporate Finance Conference, discussion of Coven, Gupta and Yao, Urban Flight Seeded the Covid-19 Pandemic Across the US](https://github.com/mzfrank/myweb/files/6823952/Comments.on.Urban.Flight.paper.2020.Oct.pdf)
+
+[2020 NFA, discussion of Halling, Yu and Zechner, The Dynamics of Corporate Debt Structure](https://github.com/mzfrank/myweb/files/6823969/MFrank_NFA_Discussion_2020Updated.pdf)
 
 # Teaching materials
 
 In recent years I taught a PhD course, an MBA course, and a couple of MSF courses. Here are the most recent versions of the syllabi.
 
-[Empirical Corporate Finance PhD Syllabus 2020.pdf](https://github.com/mzfrank/myweb/files/6823541/8823_Syllabus2020.pdf)
+[Machine Learning for Finance, MSF 2021](https://github.com/mzfrank/myweb/files/6823590/ML_for_Finance_syllabus_2021.pdf)
 
-[World Economy Syllabus MBA 2021.pdf](https://github.com/mzfrank/myweb/files/6823531/World.Economy.Syllabus.2021.pdf)
+[Finance in the Macroeconomy, MSF 2021](https://github.com/mzfrank/myweb/files/6823561/6621_MSF_2021_Syllabus.pdf)
 
-[Finance in the Macroeconomy Syllabus MSF 2021.pdf](https://github.com/mzfrank/myweb/files/6823561/6621_MSF_2021_Syllabus.pdf)
+[World Economy, MBA 2021](https://github.com/mzfrank/myweb/files/6823531/World.Economy.Syllabus.2021.pdf)
 
-[Machine Learning for Finance Syllabus MSF 2021.pdf](https://github.com/mzfrank/myweb/files/6823590/ML_for_Finance_syllabus_2021.pdf)
+[Empirical Corporate Finance, PhD 2020](https://github.com/mzfrank/myweb/files/6823541/8823_Syllabus2020.pdf)
+
 
 ### Support or Contact
 

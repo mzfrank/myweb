@@ -1,5 +1,5 @@
 # Information and Links
-My work page:https://carlsonschool.umn.edu/faculty/murray-frank
+My work page: https://carlsonschool.umn.edu/faculty/murray-frank
 
 My papers on SSRN: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=59982
 
@@ -7,7 +7,15 @@ My Google scholar page: https://scholar.google.com/citations?user=iizj77oAAAAJ&h
 
 LinkedIn: https://www.linkedin.com/in/murray-frank-5b5666a5/
 
+
+# Papers under development
+
+[Chen and Frank, 2021, Debt Financing Investment in the Long Run](https://github.com/mzfrank/myweb/files/6823733/ChenFrank2021June02.pdf)
+
+
 # Teaching materials
+
+In recent years I teach a PhD course, an MBA course, and a couple of MSF courses. Here are the most recent versions of the syllabi.
 
 [Empirical Corporate Finance PhD Syllabus 2020.pdf](https://github.com/mzfrank/myweb/files/6823541/8823_Syllabus2020.pdf)
 

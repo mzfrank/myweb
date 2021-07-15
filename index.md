@@ -8,9 +8,18 @@ My Google scholar page: https://scholar.google.com/citations?user=iizj77oAAAAJ&h
 LinkedIn: https://www.linkedin.com/in/murray-frank-5b5666a5/
 
 
-# Papers under development
+# Papers currently under development
 
 [Chen and Frank, 2021, Debt Financing Investment in the Long Run](https://github.com/mzfrank/myweb/files/6823733/ChenFrank2021June02.pdf)
+
+# Some recent paper discussions at conference
+
+[2020 NFA, discussion of Halling, Yu and Zechner, The Dynamics of Corporate Debt Structure](https://github.com/mzfrank/myweb/files/6823969/MFrank_NFA_Discussion_2020Updated.pdf)
+
+[2020 Minnesota Corporate, discussion of Coven, Gupta and Yao, Urban Flight Seeded the Covid-19 Pandemic Across the US](https://github.com/mzfrank/myweb/files/6823952/Comments.on.Urban.Flight.paper.2020.Oct.pdf)
+
+[2021 WFA, discussion of Jung, Kadyrzhanova and Subramanian, Capital Structure under Imperfect Product Market Competition](https://github.com/mzfrank/myweb/files/6823894/Capital.Structure.under.Imperfect.Product.Market.CompetitionUpdated.pdf)
+
 
 
 # Teaching materials

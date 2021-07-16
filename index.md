@@ -1,4 +1,4 @@
-[I work in the Finance Department, University of Minnesota](https://carlsonschool.umn.edu/faculty/murray-frank) where I am a Professor of Finance and Piper Jaffray Endowed Faculty Fellow. I have also been a visiting professor at SAIF in Shanghai for a number of years: [Shanghai Advanced Institute of Finance](https://en.saif.sjtu.edu.cn/).
+I work in the [Finance Department, University of Minnesota](https://carlsonschool.umn.edu/faculty/murray-frank) where I am a Professor of Finance and Piper Jaffray Endowed Faculty Fellow. I have also been a Visiting Professor at the [Shanghai Advanced Institute of Finance](https://en.saif.sjtu.edu.cn/) for a number of years.
 
 E-mail: murra280@umn.edu
 
@@ -17,7 +17,7 @@ In early 2020 due to Covid-19, some of us were concerned about the potential imp
 
 # Midwest Finance Association
 
-I was the President of the MFA in 2017-2018 and I still have a soft spot for the organization, see [https://midwestfinance.org/](https://midwestfinance.org/). 
+I was the President of the MFA in 2017-2018 and I still have a soft spot for the organization, see [https://midwestfinance.org/](https://midwestfinance.org/). My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020/08/presidential-address-march18.pdf) from San Antonio 2018 was about the impact of Machine Learning on finance. 
 
 # Recent papers 
 

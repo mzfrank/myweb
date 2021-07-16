@@ -17,7 +17,9 @@ In early 2020 due to Covid-19, some of us were concerned about the potential imp
 
 # Midwest Finance Association
 
-I was the President of the MFA in 2017-2018 and I still have a soft spot for the organization, see [https://midwestfinance.org/](https://midwestfinance.org/). My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020/08/presidential-address-march18.pdf) from San Antonio 2018 was about the impact of Machine Learning on finance. 
+I was the President of the MFA in 2017-2018 and I still have a soft spot for the organization, see [https://midwestfinance.org/](https://midwestfinance.org/). 
+
+My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020/08/presidential-address-march18.pdf) from San Antonio 2018 was about the impact of Machine Learning on finance. This is a topic of particular interest to me since [Is All That Talk Just Noise? The Information Content of Internet Stock Message Boards](https://doi.org/10.1111/j.1540-6261.2004.00662.x), 2004 **Journal of Finance** (with [Werner Antweiler](https://wernerantweiler.ca/)).
 
 # Recent papers 
 

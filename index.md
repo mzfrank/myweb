@@ -37,7 +37,7 @@ My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020
 [Debt Financing Investment in the Long Run, 2021 (with Hong Chen)](https://github.com/mzfrank/myweb/files/6823733/ChenFrank2021June02.pdf),
 [Presentation slides](https://github.com/mzfrank/myweb/files/6825712/Talk_ChenFrank_2021Mar05.pdf)
 
-Which Firms Have More Predictable Profits? A Method and Applications (with [Keer Yang](https://keeryang.github.io/)) available soon. **Keer is a superb PhD student, 
+Which Firms Have More Predictable Profits? A Method and Applications (with [Keer Yang](https://keeryang.github.io/)) available soon. **Keer is a very good PhD student, 
 with interests in FinTech, Empirical Corporate Finance, Machine Learning, and Financial Intermediation. He will be on the job market this year (fall 2021 - spring 2022). If you need more information check his [web page](https://keeryang.github.io/) and/or contact me.** 
 
 # Discussions at conferences

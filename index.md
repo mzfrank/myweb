@@ -23,10 +23,9 @@ My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020
 
 # Recent papers 
 
-[Financing Corporate Growth](https://ssrn.com/abstract=3377665) (with [Ali Sanati](https://www.alisanati.com/)) forthcoming, **Review of Financial Studies**, 
-[Presentation slides](https://github.com/mzfrank/myweb/files/6826544/FrankSanati_2020Virtual.pdf)
+[The Effect of Taxation on Corporate Financing and Investment](https://ssrn.com/abstract=2878057) (with [Hong Chen](http://en.saif.sjtu.edu.cn/faculty-research/chen-hong)) forthcoming, **Review of Corporate Finance Studies** [An editorial spotlight of this paper by Uday Rajan](http://sfsrcfs.org/news/paper-spotlight-the-effect-of-taxation-on-corporate-financing-and-investment/)
 
-[The Effect of Taxation on Corporate Financing and Investment](https://ssrn.com/abstract=2878057) (with [Hong Chen](http://en.saif.sjtu.edu.cn/faculty-research/chen-hong)) forthcoming, **Review of Corporate Finance Studies** 
+[Financing Corporate Growth](https://academic.oup.com/rfs/article-abstract/34/10/4926/6020280) (with [Ali Sanati](https://www.alisanati.com/)) 2021, **Review of Financial Studies**, October. [Presentation slides](https://github.com/mzfrank/myweb/files/6826544/FrankSanati_2020Virtual.pdf)
 
 [The Trade-off Theory of Corporate Capital Structure](https://ssrn.com/abstract=3595492) (with [Hengjie Ai](https://www.hengjieai.com/) and [Ali Sanati](https://www.alisanati.com/)) 2021, **Oxford Research Encyclopedia of Economics and Finance** 
 
@@ -37,10 +36,11 @@ My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020
 [Debt Financing Investment in the Long Run, 2021 (with Hong Chen)](https://github.com/mzfrank/myweb/files/6823733/ChenFrank2021June02.pdf),
 [Presentation slides](https://github.com/mzfrank/myweb/files/6825712/Talk_ChenFrank_2021Mar05.pdf)
 
-Which Firms Have More Predictable Profits? A Method and Applications (with [Keer Yang](https://keeryang.github.io/)) available soon. **Keer is a very good PhD student, 
-with interests in FinTech, Empirical Corporate Finance, Machine Learning, and Financial Intermediation. He will be on the job market this year (fall 2021 - spring 2022). If you need more information check his [web page](https://keeryang.github.io/) and/or contact me.** 
+[Predicting Firm Profits: From Fama-MacBeth to Gradient Boosting](https://ssrn.com/abstract=3919194), (with [Keer Yang](https://keeryang.github.io/)). **Keer is an excellent PhD student, with interests in FinTech, Empirical Corporate Finance, Machine Learning, and Financial Intermediation. He will be on the job market this year (fall 2021 - spring 2022). If you need more information check his [web page](https://keeryang.github.io/) and/or contact me.** 
 
 # Discussions at conferences
+
+[2021 NFA, discussion of Mai, Economic Narratives and Market Outcomes: A Semi-supervised Topic Modeling Approach]
 
 [2021 WFA, discussion of Jung, Kadyrzhanova and Subramanian, Capital Structure under Imperfect Product Market Competition](https://github.com/mzfrank/myweb/files/6823894/Capital.Structure.under.Imperfect.Product.Market.CompetitionUpdated.pdf)
 

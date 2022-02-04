@@ -38,8 +38,6 @@ My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020
 
 [Predicting Firm Profits: From Fama-MacBeth to Gradient Boosting](https://ssrn.com/abstract=3919194) with [Keer Yang](https://keeryang.github.io/). 
 
-**Keer is an excellent PhD student, with interests in FinTech, Empirical Corporate Finance, Machine Learning, and Financial Intermediation. He will be on the job market this year (fall 2021 - spring 2022). If you need more information check his [web page](https://keeryang.github.io/) and/or contact me.** 
-
 # Discussions at conferences
 
 
@@ -56,6 +54,8 @@ My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020
 In recent years I taught a PhD course, an MBA course, and a couple of MSF courses. Here are the most recent versions of the syllabi.
 
 [Machine Learning for Finance, MSF 2021](https://github.com/mzfrank/myweb/files/6823590/ML_for_Finance_syllabus_2021.pdf)
+
+[Finance in the Macroeconomy, MSF 2022](https://github.com/mzfrank/myweb/files/)
 
 [Finance in the Macroeconomy, MSF 2021](https://github.com/mzfrank/myweb/files/6823561/6621_MSF_2021_Syllabus.pdf)
 

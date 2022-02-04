@@ -2,7 +2,7 @@ I work in the [Finance Department, University of Minnesota](https://carlsonschoo
 
 E-mail: murra280@umn.edu
 
-[CV](https://github.com/mzfrank/myweb/files/6824824/Vita2020Dec_Murray.Frank.pdf)
+[CV](https://github.com/mzfrank/myweb/files/8006713/Vita2021_December_Murray.Frank.pdf)
 
 [My papers on SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=59982)
 
@@ -40,7 +40,6 @@ My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020
 
 # Discussions at conferences
 
-
 [2021 NFA, discussion of Mai, Economic Narratives and Market Outcomes: A Semi-supervised Topic Modeling Approach](https://github.com/mzfrank/myweb/files/7197947/EconomicNarratives_Discussion_NFA_2021.pdf)
 
 [2021 WFA, discussion of Jung, Kadyrzhanova and Subramanian, Capital Structure under Imperfect Product Market Competition](https://github.com/mzfrank/myweb/files/6823894/Capital.Structure.under.Imperfect.Product.Market.CompetitionUpdated.pdf)
@@ -58,7 +57,8 @@ In recent years I taught a PhD course, an MBA course, and a couple of MSF course
 [Finance in the Macroeconomy, MSF 2021,](https://github.com/mzfrank/myweb/files/6823561/6621_MSF_2021_Syllabus.pdf)
 [2022](https://github.com/mzfrank/myweb/files/8006704/6621_MSF_2022_Syllabus.pdf)
 
-[World Economy, MBA 2021](https://github.com/mzfrank/myweb/files/6823531/World.Economy.Syllabus.2021.pdf)
+[World Economy, MBA 2021,](https://github.com/mzfrank/myweb/files/6823531/World.Economy.Syllabus.2021.pdf)
+[2022](https://github.com/mzfrank/myweb/files/8006718/World.Economy.Syllabus.2022.pdf)
 
 [Empirical Corporate Finance, PhD 2020](https://github.com/mzfrank/myweb/files/6823541/8823_Syllabus2020.pdf)
 

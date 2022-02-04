@@ -55,9 +55,8 @@ In recent years I taught a PhD course, an MBA course, and a couple of MSF course
 
 [Machine Learning for Finance, MSF 2021](https://github.com/mzfrank/myweb/files/6823590/ML_for_Finance_syllabus_2021.pdf)
 
-[Finance in the Macroeconomy, MSF 2022](https://github.com/mzfrank/myweb/files/)
-
-[Finance in the Macroeconomy, MSF 2021](https://github.com/mzfrank/myweb/files/6823561/6621_MSF_2021_Syllabus.pdf)
+[Finance in the Macroeconomy, MSF 2021,](https://github.com/mzfrank/myweb/files/6823561/6621_MSF_2021_Syllabus.pdf)
+[2022](https://github.com/mzfrank/myweb/files/8006704/6621_MSF_2022_Syllabus.pdf)
 
 [World Economy, MBA 2021](https://github.com/mzfrank/myweb/files/6823531/World.Economy.Syllabus.2021.pdf)
 

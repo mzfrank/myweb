@@ -23,15 +23,17 @@ My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020
 
 # Recent papers 
 
-[The Effect of Taxation on Corporate Financing and Investment](https://ssrn.com/abstract=2878057) (with [Hong Chen](http://en.saif.sjtu.edu.cn/faculty-research/chen-hong)) forthcoming, **Review of Corporate Finance Studies** [Editorial Paper Spolight by Uday Rajan](http://sfsrcfs.org/news/paper-spotlight-the-effect-of-taxation-on-corporate-financing-and-investment/)
+[The Effect of Taxation on Corporate Financing and Investment](https://ssrn.com/abstract=2878057) (with [Hong Chen](http://en.saif.sjtu.edu.cn/faculty-research/chen-hong)) 2022, **Review of Corporate Finance Studies**, 11, 47 - 87, [Editorial Paper Spolight by Uday Rajan](http://sfsrcfs.org/news/paper-spotlight-the-effect-of-taxation-on-corporate-financing-and-investment/)
 
-[Financing Corporate Growth](https://academic.oup.com/rfs/article-abstract/34/10/4926/6020280) (with [Ali Sanati](https://www.alisanati.com/)) 2021, **Review of Financial Studies**, October, [Presentation slides](https://github.com/mzfrank/myweb/files/6826544/FrankSanati_2020Virtual.pdf)
+[Financing Corporate Growth](https://academic.oup.com/rfs/article-abstract/34/10/4926/6020280) (with [Ali Sanati](https://www.alisanati.com/)) 2021, **Review of Financial Studies**, 34, 4926 - 4998, [Presentation slides](https://github.com/mzfrank/myweb/files/6826544/FrankSanati_2020Virtual.pdf)
 
 [The Trade-off Theory of Corporate Capital Structure](https://ssrn.com/abstract=3595492) (with [Hengjie Ai](https://www.hengjieai.com/) and [Ali Sanati](https://www.alisanati.com/)) 2021, **Oxford Research Encyclopedia of Economics and Finance** 
 
 [The Pecking Order Theory of Capital Structure](https://ssrn.com/abstract=3540610) (with [Vidhan Goyal](https://www.vidhangoyal.com/) and [Tao Shen](http://www.sem.tsinghua.edu.cn/en/shentao)) 2020, **Oxford Research Encyclopedia of Economics and Finance** 
 
 # Work in progress
+
+[Equilibrium Defaultable Corporate Debt and Investment, February 2022](https://github.com/mzfrank/myweb/files/8043782/Defaultable-Firm-2022_Feb.pdf) with [Hong Chen](http://en.saif.sjtu.edu.cn/faculty-research/chen-hong)
 
 [Debt Financing Investment in the Long Run, 2021 (with Hong Chen)](https://github.com/mzfrank/myweb/files/6823733/ChenFrank2021June02.pdf),
 [Presentation slides](https://github.com/mzfrank/myweb/files/6825712/Talk_ChenFrank_2021Mar05.pdf)
@@ -60,5 +62,6 @@ In recent years I taught a PhD course, an MBA course, and a couple of MSF course
 [World Economy, MBA 2021,](https://github.com/mzfrank/myweb/files/6823531/World.Economy.Syllabus.2021.pdf)
 [2022](https://github.com/mzfrank/myweb/files/8006718/World.Economy.Syllabus.2022.pdf)
 
-[Empirical Corporate Finance, PhD 2020](https://github.com/mzfrank/myweb/files/6823541/8823_Syllabus2020.pdf)
+[Empirical Corporate Finance, PhD 2020,](https://github.com/mzfrank/myweb/files/6823541/8823_Syllabus2020.pdf)
+[2022 (plan)](https://github.com/mzfrank/myweb/files/8043809/Draft_8823_Syllabus2022.pdf)
 

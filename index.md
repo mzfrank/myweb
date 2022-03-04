@@ -63,5 +63,5 @@ In recent years I taught a PhD course, an MBA course, and a couple of MSF course
 [2022](https://github.com/mzfrank/myweb/files/8006718/World.Economy.Syllabus.2022.pdf)
 
 [Empirical Corporate Finance, PhD 2020,](https://github.com/mzfrank/myweb/files/6823541/8823_Syllabus2020.pdf)
-[2022 (plan)](https://github.com/mzfrank/myweb/files/8043809/Draft_8823_Syllabus2022.pdf)
+[2022 (plan)](https://github.com/mzfrank/myweb/files/8188350/Draft_8823_Syllabus2022.pdf)
 

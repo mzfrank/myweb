@@ -55,6 +55,7 @@ My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020
 In recent years I taught a PhD course, an MBA course, and a couple of MSF courses. Here are the most recent versions of the syllabi.
 
 [Machine Learning for Finance, MSF 2021](https://github.com/mzfrank/myweb/files/6823590/ML_for_Finance_syllabus_2021.pdf)
+[2022 (plan)](https://github.com/mzfrank/myweb/files/8188374/DRAFT_ML_for_Finance_syllabus_2022.pdf)
 
 [Finance in the Macroeconomy, MSF 2021,](https://github.com/mzfrank/myweb/files/6823561/6621_MSF_2021_Syllabus.pdf)
 [2022](https://github.com/mzfrank/myweb/files/8006704/6621_MSF_2022_Syllabus.pdf)

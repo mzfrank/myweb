@@ -55,7 +55,8 @@ My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020
 In recent years I taught a PhD course, an MBA course, and a couple of MSF courses. Here are the most recent versions of the syllabi.
 
 [Machine Learning for Finance, MSF 2021](https://github.com/mzfrank/myweb/files/6823590/ML_for_Finance_syllabus_2021.pdf)
-[2022 (plan)](https://github.com/mzfrank/myweb/files/8188374/DRAFT_ML_for_Finance_syllabus_2022.pdf)
+[2022 (plan)](https://github.com/mzfrank/myweb/files/8238277/ML_for_Finance_syllabus_2022.pdf)
+
 
 [Finance in the Macroeconomy, MSF 2021,](https://github.com/mzfrank/myweb/files/6823561/6621_MSF_2021_Syllabus.pdf)
 [2022](https://github.com/mzfrank/myweb/files/8006704/6621_MSF_2022_Syllabus.pdf)
@@ -64,5 +65,6 @@ In recent years I taught a PhD course, an MBA course, and a couple of MSF course
 [2022](https://github.com/mzfrank/myweb/files/8006718/World.Economy.Syllabus.2022.pdf)
 
 [Empirical Corporate Finance, PhD 2020,](https://github.com/mzfrank/myweb/files/6823541/8823_Syllabus2020.pdf)
-[2022 (plan)](https://github.com/mzfrank/myweb/files/8188350/Draft_8823_Syllabus2022.pdf)
+[2022.](https://github.com/mzfrank/myweb/files/8238280/8823_Syllabus2022.pdf)
 
+[PhD Class Handout. As you read a paper: the usual questions](https://github.com/mzfrank/myweb/files/8238282/As.you.read.a.paper.pdf)

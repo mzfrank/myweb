@@ -12,7 +12,7 @@ E-mail: murra280@umn.edu
 
 # Virtual Corporate Finance Seminars
 
-In early 2020 due to Covid-19, some of us were concerned about the potential impact on academic seminars and conferences in corporate finance. As a result [Gordon Phillips (Dartmouth)](http://faculty.tuck.dartmouth.edu/gordon-phillips/), [Max Maksimovic (Maryland)](https://www.rhsmith.umd.edu/directory/vojislav-max-maksimovic) and I, created a virtual weekly seminar series for corporate finance. It started May 2020. Many papers have been presented so far, and we currently have seminars scheduled through May 2022. To see a list of both the past and the future seminars (many with links to papers): 
+In early 2020 due to Covid-19, some of us were concerned about the potential impact on academic seminars and conferences in corporate finance. As a result [Gordon Phillips (Dartmouth)](http://faculty.tuck.dartmouth.edu/gordon-phillips/), [Max Maksimovic (Maryland)](https://www.rhsmith.umd.edu/directory/vojislav-max-maksimovic) and I, created a virtual weekly seminar series for corporate finance. It started May 2020. Many papers have been presented, see: 
 [https://sites.google.com/site/uscfom/weekly-virtual-seminar](https://sites.google.com/site/uscfom/weekly-virtual-seminar)
 
 # Midwest Finance Association
@@ -52,11 +52,10 @@ My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020
 
 # Teaching materials
 
-In recent years I taught a PhD course, an MBA course, and a couple of MSF courses. Here are the most recent versions of the syllabi.
+Masters Level (MSF and MBA)
 
-[Machine Learning for Finance, MSF 2021](https://github.com/mzfrank/myweb/files/6823590/ML_for_Finance_syllabus_2021.pdf)
-[2022 (plan)](https://github.com/mzfrank/myweb/files/8238277/ML_for_Finance_syllabus_2022.pdf)
-
+[Machine Learning for Finance, MSF 2021,](https://github.com/mzfrank/myweb/files/6823590/ML_for_Finance_syllabus_2021.pdf)
+[2022](https://github.com/mzfrank/myweb/files/8238277/ML_for_Finance_syllabus_2022.pdf)
 
 [Finance in the Macroeconomy, MSF 2021,](https://github.com/mzfrank/myweb/files/6823561/6621_MSF_2021_Syllabus.pdf)
 [2022](https://github.com/mzfrank/myweb/files/8006704/6621_MSF_2022_Syllabus.pdf)
@@ -64,7 +63,12 @@ In recent years I taught a PhD course, an MBA course, and a couple of MSF course
 [World Economy, MBA 2021,](https://github.com/mzfrank/myweb/files/6823531/World.Economy.Syllabus.2021.pdf)
 [2022](https://github.com/mzfrank/myweb/files/8006718/World.Economy.Syllabus.2022.pdf)
 
+PhD Level
+
 [Empirical Corporate Finance, PhD 2020,](https://github.com/mzfrank/myweb/files/6823541/8823_Syllabus2020.pdf)
 [2022.](https://github.com/mzfrank/myweb/files/8238320/8823_Syllabus2022.pdf)
 
-[PhD Class Handout. As you read a paper: the usual questions](https://github.com/mzfrank/myweb/files/8238282/As.you.read.a.paper.pdf)
+  [PhD Class Handout. As you read a paper: the usual questions 2022](https://github.com/mzfrank/myweb/files/8238282/As.you.read.a.paper.pdf)
+
+  [Empirical Corporate Finance Qualifier Preparation Readings 2022](https://github.com/mzfrank/myweb/files/8626495/Qualifier_Review.Reading.Lists.2022.pdf)
+

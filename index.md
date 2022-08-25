@@ -31,16 +31,20 @@ My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020
 
 [The Pecking Order Theory of Capital Structure](https://ssrn.com/abstract=3540610) (with [Vidhan Goyal](https://www.vidhangoyal.com/) and [Tao Shen](http://www.sem.tsinghua.edu.cn/en/shentao)) 2020, **Oxford Research Encyclopedia of Economics and Finance** 
 
-# Work in progress
+# Working papers
 
 [Equilibrium Defaultable Corporate Debt and Investment, February 2022](https://github.com/mzfrank/myweb/files/8043782/Defaultable-Firm-2022_Feb.pdf) with [Hong Chen](http://en.saif.sjtu.edu.cn/faculty-research/chen-hong)
 
 [Debt Financing Investment in the Long Run, 2021 (with Hong Chen)](https://github.com/mzfrank/myweb/files/6823733/ChenFrank2021June02.pdf),
 [Presentation slides](https://github.com/mzfrank/myweb/files/6825712/Talk_ChenFrank_2021Mar05.pdf)
 
-[Predicting Firm Profits: From Fama-MacBeth to Gradient Boosting](https://ssrn.com/abstract=3919194) with [Keer Yang](https://keeryang.github.io/). 
+[Predicting Firm Profits: From Fama-MacBeth to Gradient Boosting](https://ssrn.com/abstract=3919194) with [Keer Yang](https://keeryang.github.io/) 
 
-Empirical Corporate Capital Structure (in preparation for, Handbook of Corporate Finance) with Vidhan Goyal 
+# Projects in progress
+
+Behavioral Machine Learning? (in preparation) with [Keer Yang](https://keeryang.github.io/) 
+
+Empirical Corporate Capital Structure (in preparation for, Handbook of Corporate Finance) with [Vidhan Goyal](https://www.vidhangoyal.com/)
 
 # Discussions at conferences
 

@@ -12,8 +12,9 @@ E-mail: murra280@umn.edu
 
 # Virtual Corporate Finance Seminars
 
-In early 2020 due to Covid-19, some of us were concerned about the potential impact on academic seminars and conferences in corporate finance. As a result [Gordon Phillips (Dartmouth)](http://faculty.tuck.dartmouth.edu/gordon-phillips/), [Max Maksimovic (Maryland)](https://www.rhsmith.umd.edu/directory/vojislav-max-maksimovic) and I, created a virtual weekly seminar series for corporate finance. It started May 2020. Many papers have been presented, see: 
-[https://sites.google.com/site/uscfom/weekly-virtual-seminar](https://sites.google.com/site/uscfom/weekly-virtual-seminar)
+In early 2020 due to Covid-19, some of us were concerned about the potential impact on academic seminars and conferences in corporate finance. As a result [Gordon Phillips (Dartmouth)](http://faculty.tuck.dartmouth.edu/gordon-phillips/), [Max Maksimovic (Maryland)](https://www.rhsmith.umd.edu/directory/vojislav-max-maksimovic) and I, created a virtual weekly seminar series for corporate finance. It started May 2020, and we generally run during the teaching terms - except during the recruiting months. 
+
+We are very happy that [Michael Weisbach (OSU](https://u.osu.edu/weisbach.2/) has joined us as an organizer as of mid-2022. Currently seminars are scheduled through the end of 2022, see: [https://sites.google.com/site/uscfom/weekly-virtual-seminar](https://sites.google.com/site/uscfom/weekly-virtual-seminar)
 
 # Midwest Finance Association
 
@@ -44,7 +45,7 @@ My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020
 
 Behavioral Machine Learning? with [Keer Yang](https://keeryang.github.io/) 
 
-Empirical Corporate Capital Structure (in preparation for, Handbook of Corporate Finance) with [Vidhan Goyal](https://www.vidhangoyal.com/)
+Empirical Corporate Capital Structure, with [Vidhan Goyal](https://www.vidhangoyal.com/), in preparation for the Handbook of Corporate Finance
 
 How Important are Corporate Debt Financing Constraints? with [Ali Sanati](https://www.alisanati.com/)  
 

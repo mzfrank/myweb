@@ -40,6 +40,8 @@ My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020
 
 [Predicting Firm Profits: From Fama-MacBeth to Gradient Boosting](https://ssrn.com/abstract=3919194) with [Keer Yang](https://keeryang.github.io/). 
 
+Empirical Corporate Capital Structure (in preparation for, Handbook of Corporate Finance) with Vidhan Goyal 
+
 # Discussions at conferences
 
 [2021 NFA, discussion of Mai, Economic Narratives and Market Outcomes: A Semi-supervised Topic Modeling Approach](https://github.com/mzfrank/myweb/files/7197947/EconomicNarratives_Discussion_NFA_2021.pdf)
@@ -67,8 +69,5 @@ PhD Level
 
 [Empirical Corporate Finance, PhD 2020,](https://github.com/mzfrank/myweb/files/6823541/8823_Syllabus2020.pdf)
 [2022.](https://github.com/mzfrank/myweb/files/8238320/8823_Syllabus2022.pdf)
-
-  [PhD Class Handout. As you read a paper: the usual questions 2022](https://github.com/mzfrank/myweb/files/8238282/As.you.read.a.paper.pdf)
-
-  [Empirical Corporate Finance Qualifier Preparation Readings 2022](https://github.com/mzfrank/myweb/files/8626495/Qualifier_Review.Reading.Lists.2022.pdf)
-
+ 
+[PhD Class Handout. As you read a paper: the usual questions](https://github.com/mzfrank/myweb/files/9428452/As.you.read.a.paper.pdf)

@@ -40,7 +40,7 @@ My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020
 
 [Predicting Firm Profits: From Fama-MacBeth to Gradient Boosting](https://ssrn.com/abstract=3919194) with [Keer Yang](https://keeryang.github.io/) 
 
-# Projects in progress
+# Work in progress
 
 Behavioral Machine Learning? (in preparation) with [Keer Yang](https://keeryang.github.io/) 
 

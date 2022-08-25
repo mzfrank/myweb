@@ -42,9 +42,11 @@ My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020
 
 # Work in progress
 
-Behavioral Machine Learning? (in preparation) with [Keer Yang](https://keeryang.github.io/) 
+Behavioral Machine Learning? with [Keer Yang](https://keeryang.github.io/) 
 
 Empirical Corporate Capital Structure (in preparation for, Handbook of Corporate Finance) with [Vidhan Goyal](https://www.vidhangoyal.com/)
+
+How Important are Corporate Debt Financing Constraints? with [Ali Sanati](https://www.alisanati.com/)  
 
 # Discussions at conferences
 

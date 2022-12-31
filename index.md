@@ -67,11 +67,9 @@ Masters Level (MSF and MBA)
 [Machine Learning for Finance, MSF 2021,](https://github.com/mzfrank/myweb/files/6823590/ML_for_Finance_syllabus_2021.pdf)
 [2022](https://github.com/mzfrank/myweb/files/8238277/ML_for_Finance_syllabus_2022.pdf)
 
-[Finance in the Macroeconomy, MSF 2021,](https://github.com/mzfrank/myweb/files/6823561/6621_MSF_2021_Syllabus.pdf)
-[2022](https://github.com/mzfrank/myweb/files/8006704/6621_MSF_2022_Syllabus.pdf)
+[Finance in the Macroeconomy, MSF 2021,](https://github.com/mzfrank/myweb/files/6823561/6621_MSF_2021_Syllabus.pdf)[2022](https://github.com/mzfrank/myweb/files/8006704/6621_MSF_2022_Syllabus.pdf), [2023 planned](https://github.com/mzfrank/myweb/files/10327937/6621_Syllabus_2023.pdf)
 
-[World Economy, MBA 2021,](https://github.com/mzfrank/myweb/files/6823531/World.Economy.Syllabus.2021.pdf)
-[2022](https://github.com/mzfrank/myweb/files/8006718/World.Economy.Syllabus.2022.pdf)
+
 
 PhD Level
 

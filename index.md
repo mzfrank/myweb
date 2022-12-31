@@ -33,7 +33,7 @@ My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020
 [The Pecking Order Theory of Capital Structure](https://ssrn.com/abstract=3540610) (with [Vidhan Goyal](https://www.vidhangoyal.com/) and [Tao Shen](http://www.sem.tsinghua.edu.cn/en/shentao)) 2020, **Oxford Research Encyclopedia of Economics and Finance** 
 
 # Working papers
-[Empirical Corporate Capital Structure, October 2022](https://github.com/mzfrank/myweb/files/9863480/CapStrSurvey2022.pdf) with [Vidhan Goyal](https://www.vidhangoyal.com/). This is a first draft of a chapter for the Handbook of Corporate Finance. 
+[Empirical Corporate Capital Structure, November 2022](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4283132) with [Vidhan Goyal](https://www.vidhangoyal.com/). This is a draft chapter for the Handbook of Corporate Finance. 
 
 [Equilibrium Defaultable Corporate Debt and Investment, February 2022](https://github.com/mzfrank/myweb/files/8043782/Defaultable-Firm-2022_Feb.pdf) with [Hong Chen](http://en.saif.sjtu.edu.cn/faculty-research/chen-hong)
 

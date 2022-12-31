@@ -76,6 +76,7 @@ Masters Level (MSF and MBA)
 PhD Level
 
 [Empirical Corporate Finance, PhD 2020,](https://github.com/mzfrank/myweb/files/6823541/8823_Syllabus2020.pdf)
-[2022,](https://github.com/mzfrank/myweb/files/8238320/8823_Syllabus2022.pdf) [2023 planned](https://github.com/mzfrank/myweb/files/10180140/8823_Syllabus_2023.pdf)
+[2022,](https://github.com/mzfrank/myweb/files/8238320/8823_Syllabus2022.pdf) [2023 planned](https://github.com/mzfrank/myweb/files/10327936/8823_Syllabus_2023.pdf)
 
 [PhD Class Handout: As you read a paper.pdf](https://github.com/mzfrank/myweb/files/10179637/As.you.read.a.paper.pdf)
+

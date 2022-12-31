@@ -46,7 +46,7 @@ My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020
 
 Behavioral Machine Learning? with [Keer Yang](https://keeryang.github.io/) 
 
-Federal Funds and Corporate Investment: The Equity Financing Channel. With Mehdi Beyhaghi, Ping McLemore and Ali Sanati. 
+Federal Funds and the Financing of Corporate Assets. With Mehdi Beyhaghi, Ping McLemore and Ali Sanati. 
 
 How Important are Corporate Debt Financing Constraints? with [Ali Sanati](https://www.alisanati.com/)  
 

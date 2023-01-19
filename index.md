@@ -67,14 +67,15 @@ Masters Level (MSF and MBA)
 [Machine Learning for Finance, MSF 2021,](https://github.com/mzfrank/myweb/files/6823590/ML_for_Finance_syllabus_2021.pdf)
 [2022](https://github.com/mzfrank/myweb/files/8238277/ML_for_Finance_syllabus_2022.pdf)
 
-[Finance in the Macroeconomy, MSF 2021,](https://github.com/mzfrank/myweb/files/6823561/6621_MSF_2021_Syllabus.pdf)[2022](https://github.com/mzfrank/myweb/files/8006704/6621_MSF_2022_Syllabus.pdf), [2023 planned](https://github.com/mzfrank/myweb/files/10327937/6621_Syllabus_2023.pdf)
-
-
+[Finance in the Macroeconomy, MSF 2021,](https://github.com/mzfrank/myweb/files/6823561/6621_MSF_2021_Syllabus.pdf)
+[2022,](https://github.com/mzfrank/myweb/files/10461619/6621_MSF_2022_Syllabus.pdf)
+[2023](https://github.com/mzfrank/myweb/files/10461615/6621_Syllabus_2023.pdf)
 
 PhD Level
 
 [Empirical Corporate Finance, PhD 2020,](https://github.com/mzfrank/myweb/files/6823541/8823_Syllabus2020.pdf)
-[2022,](https://github.com/mzfrank/myweb/files/8238320/8823_Syllabus2022.pdf) [2023 planned](https://github.com/mzfrank/myweb/files/10327936/8823_Syllabus_2023.pdf)
+[2022,](https://github.com/mzfrank/myweb/files/8238320/8823_Syllabus2022.pdf) 
+[2023](https://github.com/mzfrank/myweb/files/10461607/8823_Syllabus_2023.pdf)
 
 [PhD Class Handout: As you read a paper.pdf](https://github.com/mzfrank/myweb/files/10179637/As.you.read.a.paper.pdf)
 

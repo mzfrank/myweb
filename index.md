@@ -79,3 +79,6 @@ PhD Level
 
 [PhD Class Handout: As you read a paper.pdf](https://github.com/mzfrank/myweb/files/10179637/As.you.read.a.paper.pdf)
 
+
+
+[cs-training.csv](https://github.com/mzfrank/myweb/files/11216087/cs-training.csv)

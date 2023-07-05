@@ -32,11 +32,10 @@ My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020
 
 [Targets and the Trade-Off Theory of Capital Structure, July 2023](https://ssrn.com/abstract=4031982) (with [Hong Chen](http://en.saif.sjtu.edu.cn/faculty-research/chen-hong))
 
-[Debt Financing Investment in the Long Run, 2021 (with Hong Chen)](https://github.com/mzfrank/myweb/files/6823733/ChenFrank2021June02.pdf),
-[Presentation slides, 2021 Maryland](https://github.com/mzfrank/myweb/files/6825712/Talk_ChenFrank_2021Mar05.pdf)
-
 [Behavioral Machine Learning? Computer Predictions of Corporate Earnings also Overreact, May 2023](https://ssrn.com/abstract=4031982) (with Jing Gao and [Keer Yang](https://keeryang.github.io/)) [Presentation Slides, 2023 Minnesota](https://github.com/mzfrank/myweb/files/11960242/Behavioral_ML.pdf)
 
+[Debt Financing Investment in the Long Run, 2021 (with Hong Chen)](https://github.com/mzfrank/myweb/files/6823733/ChenFrank2021June02.pdf),
+[Presentation slides, 2021 Maryland](https://github.com/mzfrank/myweb/files/6825712/Talk_ChenFrank_2021Mar05.pdf)
 
 # Work in progress
 

@@ -12,9 +12,7 @@ E-mail: murra280@umn.edu
 
 # Virtual Corporate Finance Seminars
 
-In early 2020 due to Covid-19, some of us were concerned about the potential impact on academic seminars and conferences in corporate finance. As a result [Gordon Phillips (Dartmouth)](http://faculty.tuck.dartmouth.edu/gordon-phillips/), [Max Maksimovic (Maryland)](https://www.rhsmith.umd.edu/directory/vojislav-max-maksimovic) and I, created a virtual weekly seminar series for corporate finance. It started May 2020, and we generally run during the teaching terms - except during the recruiting months. 
-
-We are very happy that [Michael Weisbach (OSU)](https://u.osu.edu/weisbach.2/) has joined us as an organizer as of mid-2022. Currently seminars are scheduled through the end of spring 2023, see: [https://sites.google.com/site/uscfom/weekly-virtual-seminar](https://sites.google.com/site/uscfom/weekly-virtual-seminar)
+In early 2020 due to Covid-19, some of us were concerned about the potential impact on academic seminars and conferences in corporate finance. As a result [Gordon Phillips (Dartmouth)](http://faculty.tuck.dartmouth.edu/gordon-phillips/), [Max Maksimovic (Maryland)](https://www.rhsmith.umd.edu/directory/vojislav-max-maksimovic) and I, created a virtual weekly seminar series for corporate finance. It started May 2020, and we generally run during the teaching terms - except during the recruiting months. [Michael Weisbach (OSU)](https://u.osu.edu/weisbach.2/) joined us as an organizer in 2022. Seminar schedules, see: [https://sites.google.com/site/uscfom/weekly-virtual-seminar](https://sites.google.com/site/uscfom/weekly-virtual-seminar)
 
 # Midwest Finance Association
 
@@ -28,29 +26,27 @@ My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020
 
 [Financing Corporate Growth](https://academic.oup.com/rfs/article-abstract/34/10/4926/6020280) (with [Ali Sanati](https://www.alisanati.com/)) 2021, **Review of Financial Studies**, 34, 4926 - 4998, [Presentation slides](https://github.com/mzfrank/myweb/files/6826544/FrankSanati_2020Virtual.pdf)
 
-[The Trade-off Theory of Corporate Capital Structure](https://ssrn.com/abstract=3595492) (with [Hengjie Ai](https://www.hengjieai.com/) and [Ali Sanati](https://www.alisanati.com/)) 2021, **Oxford Research Encyclopedia of Economics and Finance** 
-
-[The Pecking Order Theory of Capital Structure](https://ssrn.com/abstract=3540610) (with [Vidhan Goyal](https://www.vidhangoyal.com/) and [Tao Shen](http://www.sem.tsinghua.edu.cn/en/shentao)) 2020, **Oxford Research Encyclopedia of Economics and Finance** 
+[Empirical Corporate Capital Structure, November 2022](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4283132) with [Vidhan Goyal](https://www.vidhangoyal.com/). Forthcoming, Handbook of Corporate Finance (D. Denis editor). 
 
 # Working papers
-[Empirical Corporate Capital Structure, November 2022](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4283132) with [Vidhan Goyal](https://www.vidhangoyal.com/). This is a draft chapter for the Handbook of Corporate Finance. 
 
-[Equilibrium Defaultable Corporate Debt and Investment, February 2022](https://github.com/mzfrank/myweb/files/8043782/Defaultable-Firm-2022_Feb.pdf) with [Hong Chen](http://en.saif.sjtu.edu.cn/faculty-research/chen-hong)
+[Targets and the Trade-Off Theory of Capital Structure, July 2023](https://ssrn.com/abstract=4031982) with [Hong Chen](http://en.saif.sjtu.edu.cn/faculty-research/chen-hong)
 
 [Debt Financing Investment in the Long Run, 2021 (with Hong Chen)](https://github.com/mzfrank/myweb/files/6823733/ChenFrank2021June02.pdf),
 [Presentation slides](https://github.com/mzfrank/myweb/files/6825712/Talk_ChenFrank_2021Mar05.pdf)
 
-[Predicting Firm Profits: From Fama-MacBeth to Gradient Boosting](https://ssrn.com/abstract=3919194) with [Keer Yang](https://keeryang.github.io/) 
+[Behavioral Machine Learning? Computer Predictions of Corporate Earnings also Overreact, May 2023](https://ssrn.com/abstract=4031982) with Jing Gao and [Keer Yang](https://keeryang.github.io/) [Presentation Slides, 2023 Carlson](https://github.com/mzfrank/myweb/files/11960242/Behavioral_ML.pdf)
+
 
 # Work in progress
-
-Behavioral Machine Learning? with [Keer Yang](https://keeryang.github.io/) 
 
 Federal Funds and the Financing of Corporate Assets. With Mehdi Beyhaghi, Ping McLemore and Ali Sanati. 
 
 How Important are Corporate Debt Financing Constraints? with [Ali Sanati](https://www.alisanati.com/)  
 
 # Discussions at conferences
+
+[2023 FIRS, discussion of Ersahin, Giannetti, and Huang, Supply Chain Risk: Changes in Supplier Composition and Vertical Integration](https://github.com/mzfrank/myweb/files/11960205/Frank_Discussion_FIRS_2023.pdf)
 
 [2021 NFA, discussion of Mai, Economic Narratives and Market Outcomes: A Semi-supervised Topic Modeling Approach](https://github.com/mzfrank/myweb/files/7197947/EconomicNarratives_Discussion_NFA_2021.pdf)
 

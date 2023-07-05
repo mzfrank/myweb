@@ -22,27 +22,27 @@ My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020
 
 # Recent papers 
 
+[Empirical Corporate Capital Structure, November 2022](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4283132) (with [Vidhan Goyal](https://www.vidhangoyal.com/)). Forthcoming, Handbook of Corporate Finance (D. Denis editor). 
+
 [The Effect of Taxation on Corporate Financing and Investment](https://ssrn.com/abstract=2878057) (with [Hong Chen](http://en.saif.sjtu.edu.cn/faculty-research/chen-hong)) 2022, **Review of Corporate Finance Studies**, 11, 47 - 87, [Editorial Paper Spolight by Uday Rajan](http://sfsrcfs.org/news/paper-spotlight-the-effect-of-taxation-on-corporate-financing-and-investment/)
 
-[Financing Corporate Growth](https://academic.oup.com/rfs/article-abstract/34/10/4926/6020280) (with [Ali Sanati](https://www.alisanati.com/)) 2021, **Review of Financial Studies**, 34, 4926 - 4998, [Presentation slides](https://github.com/mzfrank/myweb/files/6826544/FrankSanati_2020Virtual.pdf)
-
-[Empirical Corporate Capital Structure, November 2022](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4283132) with [Vidhan Goyal](https://www.vidhangoyal.com/). Forthcoming, Handbook of Corporate Finance (D. Denis editor). 
+[Financing Corporate Growth](https://academic.oup.com/rfs/article-abstract/34/10/4926/6020280) (with [Ali Sanati](https://www.alisanati.com/)) 2021, **Review of Financial Studies**, 34, 4926 - 4998, [Presentation slides, 2020 Virtual Corporate Finance](https://github.com/mzfrank/myweb/files/6826544/FrankSanati_2020Virtual.pdf)
 
 # Working papers
 
-[Targets and the Trade-Off Theory of Capital Structure, July 2023](https://ssrn.com/abstract=4031982) with [Hong Chen](http://en.saif.sjtu.edu.cn/faculty-research/chen-hong)
+[Targets and the Trade-Off Theory of Capital Structure, July 2023](https://ssrn.com/abstract=4031982) (with [Hong Chen](http://en.saif.sjtu.edu.cn/faculty-research/chen-hong))
 
 [Debt Financing Investment in the Long Run, 2021 (with Hong Chen)](https://github.com/mzfrank/myweb/files/6823733/ChenFrank2021June02.pdf),
-[Presentation slides](https://github.com/mzfrank/myweb/files/6825712/Talk_ChenFrank_2021Mar05.pdf)
+[Presentation slides, 2021 Maryland](https://github.com/mzfrank/myweb/files/6825712/Talk_ChenFrank_2021Mar05.pdf)
 
-[Behavioral Machine Learning? Computer Predictions of Corporate Earnings also Overreact, May 2023](https://ssrn.com/abstract=4031982) with Jing Gao and [Keer Yang](https://keeryang.github.io/) [Presentation Slides, 2023 Carlson](https://github.com/mzfrank/myweb/files/11960242/Behavioral_ML.pdf)
+[Behavioral Machine Learning? Computer Predictions of Corporate Earnings also Overreact, May 2023](https://ssrn.com/abstract=4031982) (with Jing Gao and [Keer Yang](https://keeryang.github.io/)) [Presentation Slides, 2023 Minnesota](https://github.com/mzfrank/myweb/files/11960242/Behavioral_ML.pdf)
 
 
 # Work in progress
 
-Federal Funds and the Financing of Corporate Assets. With Mehdi Beyhaghi, Ping McLemore and Ali Sanati. 
+Federal Funds and the Financing of Corporate Assets. (with Mehdi Beyhaghi, Ping McLemore and Ali Sanati). 
 
-How Important are Corporate Debt Financing Constraints? with [Ali Sanati](https://www.alisanati.com/)  
+How Important are Corporate Debt Financing Constraints? (with [Ali Sanati](https://www.alisanati.com/))  
 
 # Discussions at conferences
 

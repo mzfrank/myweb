@@ -39,9 +39,8 @@ My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020
 
 # Work in progress
 
-Federal Funds and the Financing of Corporate Assets. (with Mehdi Beyhaghi, Ping McLemore and Ali Sanati). 
+Monetary Policy and Corporate Investment: The Equity Financing Channel. (with Mehdi Beyhaghi, Ping McLemore and Ali Sanati). 
 
-How Important are Corporate Debt Financing Constraints? (with [Ali Sanati](https://www.alisanati.com/))  
 
 # Discussions at conferences
 

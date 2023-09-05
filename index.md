@@ -74,5 +74,6 @@ PhD Level
 
 [PhD Class Handout: As you read a paper.pdf](https://github.com/mzfrank/myweb/files/10179637/As.you.read.a.paper.pdf)
 
-
+[Empirical Corporate Finance Qualifier Exam 2022,](https://github.com/mzfrank/myweb/files/12526302/Qualifier_Exam_2022.pdf)
+[2023](https://github.com/mzfrank/myweb/files/12526284/Qualifier_2023_Sept.pdf)
 

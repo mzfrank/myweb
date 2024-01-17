@@ -32,7 +32,7 @@ My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020
 
 [The Changing Structure of Corporate Profits](https://github.com/mzfrank/myweb/files/13968410/Structure_of_Profits.pdf) 2024 January, (with Jing Gao) 
 
-[Monetary Policy and Corporate Investment:  The Equity Financing Channel](Beyhaghi_Frank_McLemore_Sanati.pdf) 2024 January, (with Beyhaghi, McLemore, and Sanati). 
+[Monetary Policy and Corporate Investment:  The Equity Financing Channel](https://github.com/mzfrank/myweb/files/13968437/Beyhaghi_Frank_McLemore_Sanati.pdf) 2024 January, (with Beyhaghi, McLemore, and Sanati). 
 
 [Targets and the Trade-Off Theory of Capital Structure, July 2023](https://ssrn.com/abstract=4031982) (with [Hong Chen](http://en.saif.sjtu.edu.cn/faculty-research/chen-hong))
 

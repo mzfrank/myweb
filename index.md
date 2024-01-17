@@ -30,7 +30,7 @@ My [MFA Presidential address](https://midwestfinance.org/wp-content/uploads/2020
 
 # Working papers
 
-[The Changing Structure of Corporate Profits](Structure_of_Profits.pdf), 2024 January, (with Jing Gao).
+[The Changing Structure of Corporate Profits](https://github.com/mzfrank/myweb/files/13968410/Structure_of_Profits.pdf) 2024 January, (with Jing Gao) 
 
 [Monetary Policy and Corporate Investment:  The Equity Financing Channel](Beyhaghi_Frank_McLemore_Sanati.pdf) 2024 January, (with Beyhaghi, McLemore, and Sanati). 
 

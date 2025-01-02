@@ -64,15 +64,21 @@ Masters Level (MSF and MBA)
 
 [Finance in the Macroeconomy, MSF 2021,](https://github.com/mzfrank/myweb/files/6823561/6621_MSF_2021_Syllabus.pdf)
 [2022,](https://github.com/mzfrank/myweb/files/10461619/6621_MSF_2022_Syllabus.pdf)
-[2023](https://github.com/mzfrank/myweb/files/10461615/6621_Syllabus_2023.pdf)
+[2023](https://github.com/mzfrank/myweb/files/10461615/6621_Syllabus_2023.pdf) 
 
 PhD Level
 
-[Empirical Corporate Finance, PhD 2020,](https://github.com/mzfrank/myweb/files/6823541/8823_Syllabus2020.pdf)
-[2022,](https://github.com/mzfrank/myweb/files/8238320/8823_Syllabus2022.pdf) 
-[2023](https://github.com/mzfrank/myweb/files/10461607/8823_Syllabus_2023.pdf)
+[Empirical Corporate Finance, PhD 2020, Syllabus](https://github.com/mzfrank/myweb/files/6823541/8823_Syllabus2020.pdf)
+[2022, Syllabus](https://github.com/mzfrank/myweb/files/8238320/8823_Syllabus2022.pdf) 
+[2023 Syllabus](https://github.com/mzfrank/myweb/files/10461607/8823_Syllabus_2023.pdf)
+[2025 Syllabus](https://github.com/user-attachments/files/18292669/8823_Syllabus_2025.pdf)
 
-[PhD Class Handout: As you read a paper.pdf](https://github.com/mzfrank/myweb/files/10179637/As.you.read.a.paper.pdf)
+
+[PhD Class Handout: As you read a paper.pdf](https://github.com/mzfrank/myweb/files/10179637/As.you.read.a.paper.pdf) [As you read a paper (Revised November 2024).pdf](https://github.com/user-attachments/files/18292645/As.you.read.a.paper.November.2024.pdf)
+
+PhD Class Handout: [What_Is_A_Summary of an Academic Paper.pdf](https://github.com/user-attachments/files/18292666/What_Is_A_Summary.pdf)
+
+
 
 [Empirical Corporate Finance Qualifier Exam 2022,](https://github.com/mzfrank/myweb/files/12526302/Qualifier_Exam_2022.pdf)
 [2023](https://github.com/mzfrank/myweb/files/12526284/Qualifier_2023_Sept.pdf)

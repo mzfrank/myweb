@@ -10,7 +10,7 @@ E-mail: murra280@umn.edu
 
 # Something Big Is Happening
 
-Recently (February 12, 2026) my macroeoconomic students asked me about this blog post: (https://shumer.dev/something-big-is-happening). I found it interesting, but the economics were not entirely clear to me. As a result I decided to reinterpret that blog post using something very close to what we were studying in class. We are studying the version of the Romer growth from chapter 6 in Jones' Macroeconomics textbook. The result of the reinterpretation is the following note.
+Recently (February 12, 2026) my students asked me about this blog post: (https://shumer.dev/something-big-is-happening). I found it interesting, but the economics were not entirely clear to me. As a result I decided to reinterpret that blog post using something very close to what we were studying in class. We are studying the version of the Romer growth from chapter 6 in Jones' Macroeconomics textbook. The result of the reinterpretation is the following note.
 [A Professor Reads A Blog and Tries to Understand It](https://github.com/user-attachments/files/25279454/ai_growth_model_v5.pdf). 
 
 If this had been a normal paper instead of a note for my class I might have called it something like: Growth in the Age of Artificial Intelligence: Endogenous Knowledge Creation with Self-Improving AI. That title probably gives you a better idea of what it contains. But for a paper I would first need a much better understanding of that literature than I currently have. 

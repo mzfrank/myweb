@@ -1,4 +1,4 @@
-I work in the [Finance Department, University of Minnesota](https://carlsonschool.umn.edu/faculty/murray-frank) where I am a Professor of Finance and Piper Jaffray Endowed Faculty Fellow. I have also been a Visiting Professor at the [Shanghai Advanced Institute of Finance](https://en.saif.sjtu.edu.cn/) for a number of years.
+I work in the [Finance Department, University of Minnesota](https://carlsonschool.umn.edu/faculty/murray-frank) where I am a Professor of Finance and Piper Jaffray Endowed Faculty Fellow. I was a Visiting Professor at the [Shanghai Advanced Institute of Finance](https://en.saif.sjtu.edu.cn/) for a number of years.
 
 E-mail: murra280@umn.edu
 

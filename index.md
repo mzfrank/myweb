@@ -71,10 +71,10 @@ Marginal Responses and Financial Constraints in Corporate Finance](https://githu
 
 [2020 NFA, discussion of Halling, Yu and Zechner, The Dynamics of Corporate Debt Structure](https://github.com/mzfrank/myweb/files/6823969/MFrank_NFA_Discussion_2020Updated.pdf)
 
+# Empirical Corporate Finance Draft Textbook
+For many years I have taught empirical coporate finance to finance PhD students at the University of Minnesota. I have asssembled my notes and materials in the form of a draft textbook. You can get a copy of it [Empirical Corporate Finance textbook](https://github.com/mzfrank/ECF).  It is still a work in progress, and presumably contains things that need fixing or improving. Please let me know.  
+
 # Teaching materials
-
-
-
 
 Masters Level (MSF and MBA)
 
